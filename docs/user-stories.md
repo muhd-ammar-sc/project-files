@@ -1,6 +1,6 @@
 # User Stories
 
-Format: As a [type of user], I want [goal], so that [reason or benefit].
+Format: As a [Computer Science Student], I want [to learn every computer related subjects], so that [i can contribute to society].
 
 1. As a ..., I want ..., so that ...
 2. As a ..., I want ..., so that ...
